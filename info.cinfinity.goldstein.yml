@@ -40,6 +40,6 @@ modules:
     sources:
       - type: archive
         url: https://cinfinity.info/src/goldstein_0.4.3.tar.xz
-        sha256: e6b41ed8c4c4704cfb5ca84d35f58a1188ac21aefe28d00eaf18565c570f32a2
+        sha256: 55b83a7cea9143a44b7000cee285acaf193eaf718574bc8e5d9e591deb53958a
 
 

@@ -39,8 +39,7 @@ modules:
       - PREFIX=/app
     sources:
       - type: archive
-        url: https://cinfinity.info/src/goldstein_0.4.4.tar.xz
-        sha256: d97c7d2f31e45b456d03d49c194dbe5de75a8eb2bdaf00d639a9c126a7ebe475
-
+        url: https://cinfinity.info/src/goldstein_0.4.5.tar.xz
+        sha256: 5836adadd5a5a0d09d7dbc7ba9b9444d4f5ca1099e091927df26e3999b25843e
 
 
